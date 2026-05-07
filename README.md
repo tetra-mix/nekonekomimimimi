@@ -103,9 +103,9 @@ MOSFETをどれだけON・OFFするかによって強さを決める
 | DMOSトランジスタアレイ | TBD62003APG         |   1 |   100 | [109943](https://akizukidenshi.com/catalog/g/g109943/) |
 | ミニ振動モーター      | (記載なし / 秋月ミニ振動モーター) |   6 |   200 | [16777](https://akizukidenshi.com/catalog/g/g116777/)  |
 | マイコンボード       | XIAO ESP32S3        |   1 | 1,480 | [118078](https://akizukidenshi.com/catalog/g/g118078/) |
-| DC-DCコンバータ    | BP5293-33           |   1 |   280 | [111187](https://akizukidenshi.com/catalog/g/g111187/) |
 | ショットキーダイオード   | 1S4                 |   1 |   140 | [116384](https://akizukidenshi.com/catalog/g/g116384/) |
 | 電解コンデンサ       | 1000µF（耐圧10V〜）      |   1 |    20 | [108424](https://akizukidenshi.com/catalog/g/g108424/) |
+| LDO 3.3V1A    | BA033CC0T           |   1 |   100 | [113675](https://akizukidenshi.com/catalog/g/g113675/) |
 
 合計3220円
 
